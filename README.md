@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### Projeto
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicholasMartini&repo=Tik-Tok-Project&theme=dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/NicholasMartini/Tik-Tok-Project))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicholasMartini&repo=Tik-Tok-Project&theme=dark)](https://github.com/NicholasMartini/Tik-Tok-Project)
 
 ### Linguagens utilizadas
 
